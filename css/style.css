@@ -48,7 +48,7 @@ body a:hover {
 /*-- top-nav --*/
 
 .top-nav {
-    background: rgb(200, 146, 228);
+    background: rgb(0, 133, 0);
 }
 
 .nav>li {
@@ -70,7 +70,7 @@ ul.nav.navbar li a {
 
 ul.nav.navbar li a:hover,
 ul.nav.navbar li a.active {
-    color: #ec407a;
+    color: greenyellow;
     background: transparent;
     outline: none;
 }
@@ -145,7 +145,7 @@ ul.nav.navbar li a.w3ls-icon:hover {
 
 .banner-text h1 {
     font-size: 3.5em;
-    color: darkorchid;
+    color: rgb(42, 175, 42);
     font-weight: 900;
 }
 
@@ -170,7 +170,7 @@ ul.nav.navbar li a.w3ls-icon:hover {
 /*-- modal-basic --*/
 
 .modal {
-    background: rgb(220, 196, 233);
+    background: rgb(135, 141, 135);
     background-size: cover;
     padding: 0 !important;
 }
@@ -234,7 +234,7 @@ h4.modal-title {
 }
 
 .about h3 span {
-    color: #f3286c;
+    color: forestgreen;
 }
 
 .about h4 {
@@ -312,7 +312,7 @@ p {
 
 .bar-grids h4 {
     font-size: 1.6em;
-    color: #1dadd3;
+    color: mediumspringgreen;
     margin-bottom: 1.5em;
     border-bottom: 1px dashed #484848;
     padding-bottom: 0.5em;
@@ -335,7 +335,7 @@ p {
 }
 
 .progress-bar {
-    background-color: #b3315d;
+    background-color: mediumspringgreen;
 }
 
 .bar-grids h6 {
@@ -367,10 +367,10 @@ p {
 .experience-left {
     float: left;
     width: 30%;
-    background: #ec407a;
+    background: mediumspringgreen;
     text-align: center;
     padding: 2em 0;
-    border: 2px solid #ec407a;
+    border: 2px solid rgba(0, 250, 154, 0.856);
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
     transition: .5s all;
@@ -381,7 +381,7 @@ p {
 .experience-right {
     float: right;
     width: 70%;
-    border: 1px solid #ec407a;
+    border: 1px solid mediumspringgreen;
     padding: 1.5em;
 }
 
@@ -404,7 +404,7 @@ p {
 
 .experience-right h4 {
     font-size: 1.6em;
-    color: #1dadd3;
+    color: mediumspringgreen;
     margin-bottom: 0.5em;
     font-weight: 900;
 }
